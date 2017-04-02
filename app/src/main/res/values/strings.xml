@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MinhasTarefas</string>
+    <string name="login">Login:</string>
+    <string name="senha">Senha:</string>
+    <string name="entrar">Entrar</string>
+    <string name="add">Adicionar</string>
+    <string name="exc">Excluir</string>
+</resources>
